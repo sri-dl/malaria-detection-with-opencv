@@ -1,6 +1,3 @@
-# USAGE
-# python train_model.py
-
 # set the matplotlib backend so figures can be saved in the background
 import matplotlib
 matplotlib.use("Agg")
