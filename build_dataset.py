@@ -1,6 +1,3 @@
-# USAGE
-# python build_dataset.py
-
 # import the necessary packages
 from pyimagesearch import config
 from imutils import paths
